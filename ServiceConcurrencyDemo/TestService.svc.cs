@@ -23,7 +23,7 @@ namespace ServiceConcurrencyDemo
     /// Concurrency: Single   | Instance: PerCall  
     /// Concurrency: Single   | Instance: Single   
     /// </summary>
-    [ServiceBehavior(ConcurrencyMode = ConcurrencyMode.Single, InstanceContextMode = InstanceContextMode.Single)]
+    [ServiceBehavior(ConcurrencyMode = ConcurrencyMode.Multiple, InstanceContextMode = InstanceContextMode.Single)]
     public class TestService : ITestService
     {
         /// <summary>

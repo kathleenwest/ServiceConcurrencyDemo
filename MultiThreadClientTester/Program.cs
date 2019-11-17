@@ -31,7 +31,7 @@ namespace MultiThreadClientTester
             Console.WriteLine("Press <ENTER> to begin...");
             Console.ReadLine();
 
-            int numThreads = 50;
+            int numThreads = 5;
             proxy = new TestServiceClient();
 
             // Create and Run 5 threads in Parallel

@@ -1,0 +1,7 @@
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\MultiThreadClientTester\bin\Release\MultiThreadClientTester.exe.config
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\MultiThreadClientTester\bin\Release\MultiThreadClientTester.exe
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\MultiThreadClientTester\bin\Release\MultiThreadClientTester.pdb
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\MultiThreadClientTester\obj\Release\MultiThreadClientTester.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\MultiThreadClientTester\obj\Release\MultiThreadClientTester.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\MultiThreadClientTester\obj\Release\MultiThreadClientTester.exe
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\MultiThreadClientTester\obj\Release\MultiThreadClientTester.pdb

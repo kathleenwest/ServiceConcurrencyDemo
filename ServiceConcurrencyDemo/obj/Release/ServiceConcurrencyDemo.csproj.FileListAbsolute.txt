@@ -1,0 +1,7 @@
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\ServiceConcurrencyDemo\bin\ServiceConcurrencyDemo.dll.config
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\ServiceConcurrencyDemo\bin\ServiceConcurrencyDemo.dll
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\ServiceConcurrencyDemo\bin\ServiceConcurrencyDemo.pdb
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\ServiceConcurrencyDemo\obj\Release\ServiceConcurrencyDemo.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\ServiceConcurrencyDemo\obj\Release\ServiceConcurrencyDemo.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\ServiceConcurrencyDemo\obj\Release\ServiceConcurrencyDemo.dll
+C:\Users\kathl\Dropbox\Projects\ServiceConcurrencyDemo\ServiceConcurrencyDemo\obj\Release\ServiceConcurrencyDemo.pdb
